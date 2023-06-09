@@ -1,0 +1,16 @@
+[
+    {
+      "model": "general.ciudad",
+      "pk": 1,
+      "fields": {
+        "nombre": "Medellin"
+      }
+    },
+    {
+      "model": "general.ciudad",
+      "pk": 2,
+      "fields": {
+        "nombre": "Bogota"
+      }
+    }
+  ]
